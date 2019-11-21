@@ -23,13 +23,13 @@ Teste Backend - P
   • As campanhas deveram ser controladas por um ID único
   
 O que se espera para esta questão:
-  1.O serviço deve receber e responder JSON.
-  2.O uso de algum banco de dados (de qualquer tipo ou paradigma) é um diferencial, mas você pode manter os dados em memória.
-  3.Pense em como documentar os cenários desenvolvidos (Testes são sempre uma boa forma de documentação).
-  4.Faça uso de “mocks” em seus testes unitários.
-  5.Ao finalizar o desenvolvimento você deve compartilhar o código via GitHub.
-  6.Juntamente com o Código, deve-se documentar a estratégia utilizada para a criação da aplicação, a arquitetura utilizada e os padrões. Esta documentação deve estar no Readme do GitHub bem como quaisquer instruções para executar a aplicação.
-  7.Não esqueça o .gitignore
+  1. O serviço deve receber e responder JSON.
+  2. O uso de algum banco de dados (de qualquer tipo ou paradigma) é um diferencial, mas você pode manter os dados em memória.
+  3. Pense em como documentar os cenários desenvolvidos (Testes são sempre uma boa forma de documentação).
+  4. Faça uso de “mocks” em seus testes unitários.
+  5. Ao finalizar o desenvolvimento você deve compartilhar o código via GitHub.
+  6. Juntamente com o Código, deve-se documentar a estratégia utilizada para a criação da aplicação, a arquitetura utilizada e os padrões. Esta documentação deve estar no Readme do GitHub bem como quaisquer instruções para executar a aplicação.
+  7. Não esqueça o .gitignore
   
 ---------------------------------------------------------------------------------------------------------------------------------
 # Listar campanhas ativas:
